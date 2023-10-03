@@ -1,0 +1,9 @@
+#### Parking Detection using OpenCV ####
+
+Python Libraries required :
+> Numpy
+> OpenCV (cv2)
+
+| The detection depends upon the resolution of the image given. 
+| The resolution selection is not dynamic 
+| To overcome this issue change the empty spots frame by the desired resolution input
